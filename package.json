@@ -1,7 +1,11 @@
 {
   "name": "yearmap",
+  "author": {
+    "name": "Kundan"
+  },
   "version": "1.0.0",
   "private": true,
+  "license": "GPL-2.0-only",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

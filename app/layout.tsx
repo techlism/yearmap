@@ -9,8 +9,12 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: 'Year Tracker',
+  title: 'YearMap',
   description: 'Track every day of your year',
+  authors: {
+    name: "Kundan",
+    url: "https://techlism.com"
+  }
 };
 
 export default function RootLayout({
